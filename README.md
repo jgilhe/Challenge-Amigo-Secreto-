@@ -21,11 +21,11 @@ Se sortean aleatoriamente nombres indicados por el usuario para indicar un "Amig
 3. Se hace click en el boton "Sortear amigo" para seleccionar un nombre de la lista aleatoriamente
 4. Se indica en la pantalla el resultado
    
-   ![image](https://github.com/user-attachments/assets/44532aa3-d7dc-44e2-a748-afef6484cde8)
+![image](https://github.com/user-attachments/assets/0012f353-ceaf-4e82-b961-4b1177c7ee9c)
    
 5. Si no se escribe ningun nombre y se hace click en "Añadir", se le pide al usuario ingresar un nombre válido
    
-![image](https://github.com/user-attachments/assets/fe0f931d-7521-4f8a-8fa4-274693185210)
+![image](https://github.com/user-attachments/assets/8aa5618b-5d7a-4397-b4c0-3ff839477fe5)
 
 # Tecnologías utilizadas
 
