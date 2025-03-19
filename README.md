@@ -1,6 +1,7 @@
 # Amigo Secreto
 
-![image](https://github.com/user-attachments/assets/beb76557-47d8-4f05-a97c-99aa37d6f5a2)
+![image](https://github.com/user-attachments/assets/77f7d430-3a08-4627-ae62-8a69a0ba4db8)
+
 Se sortean aleatoriamente nombres indicados por el usuario para indicar un "Amigo secreto".
 
 # Funcionalidades
